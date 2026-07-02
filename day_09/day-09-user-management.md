@@ -154,24 +154,6 @@ ls -l /opt/dev-project
 ls -l /opt/team-workspace
 ```
 
----
-
-# Screenshots
-
-Add screenshots of the following command outputs:
-
-- User creation (`ls /home`)
-- `/etc/passwd` verification
-- `/etc/group` verification
-- `groups tokyo`
-- `groups berlin`
-- `groups professor`
-- `groups nairobi`
-- `/opt/dev-project` permissions
-- `/opt/team-workspace` permissions
-- Files created inside both directories
-
----
 
 # What I Learned
 
