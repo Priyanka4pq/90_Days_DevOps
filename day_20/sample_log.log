@@ -1,0 +1,11 @@
+2026-08-05 09:00:01 INFO Server Started
+2026-08-05 09:01:14 ERROR Connection timed out
+2026-08-05 09:01:18 ERROR Connection timed out
+2026-08-05 09:02:55 ERROR Permission denied
+2026-08-05 09:03:01 Failed Login attempt
+2026-08-05 09:04:45 INFO Backup Completed
+2026-08-05 09:05:00 CRITICAL Disk space below threshold
+2026-08-05 09:06:10 ERROR Connection timed out
+2026-08-05 09:07:21 ERROR File not found
+2026-08-05 09:08:45 CRITICAL Database connection lost
+2026-08-05 09:09:50 ERROR Permission denied
